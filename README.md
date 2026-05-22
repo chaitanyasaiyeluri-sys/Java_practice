@@ -1,15 +1,10 @@
 # Java Practice ☕
-
-Welcome to my Java practice repository.
-
 This repository contains all the Java programs, exercises, and concepts I’m learning and practicing from scratch.
 
 ## Repository Link
-
 [Java_practice Repository](https://github.com/chaitanyasaiyeluri-sys/Java_practice)
 
 ## Topics Covered
-
 - Java Basics
 - Variables & Data Types
 - Operators
@@ -26,7 +21,6 @@ This repository contains all the Java programs, exercises, and concepts I’m le
 - Problem Solving
 
 ## Goal
-
 The purpose of this repository is to:
 
 - Improve Java programming skills
@@ -36,7 +30,6 @@ The purpose of this repository is to:
 - Build a strong foundation for development
 
 ## Tools & Technologies
-
 - [Java](https://www.java.com/)
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
