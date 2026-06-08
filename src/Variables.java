@@ -1,4 +1,3 @@
-package variables;
 public class Variables {
 public static void main(String[] args) {
     int myNum = 5;               // Integer (whole number)
